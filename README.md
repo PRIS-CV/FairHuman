@@ -96,6 +96,6 @@ You can improve upon this framework to build a customized dataset for your own s
 ## About backbone models
 Due to resource constraints, our code is primarily built upon the [SDXL](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0). Given the transferability of our method, we recommend deploying it on more latest models, such as [Flux](https://huggingface.co/black-forest-labs/FLUX.1-dev), to achieve higher image quality.
 ##  Citation
-If fairHuman is helpful, please help to ⭐ the repo.
+If FairHuman is helpful, please help to ⭐ the repo.
 ## Acknowlegements
 - Our codebase builds heavily on [diffusers](https://github.com/huggingface/diffusers) 

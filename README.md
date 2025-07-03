@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# FairHuman
-=======
 # FairHuman
 
 Official implementation of FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models

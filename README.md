@@ -99,4 +99,3 @@ Due to resource constraints, our code is primarily built upon the [SDXL](https:/
 If fairHuman is helpful, please help to ⭐ the repo.
 ## Acknowlegements
 - Our codebase builds heavily on [diffusers](https://github.com/huggingface/diffusers) 
->>>>>>> afa871e (first commit)

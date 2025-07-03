@@ -49,7 +49,7 @@ Before get started, put your models as follow:
      --data #put mano model
      --hamer_ckpts #put hamer.ckpt
      --vitpose_ckpts #put wholebody.pth
-   --vae # vae model is use local checkpoints
+   --vae # vae model if use local checkpoints
    --yolo # detectors
 ```
 Notes: About the installation of hamer, please refer to https://github.com/geopavlakos/hamer

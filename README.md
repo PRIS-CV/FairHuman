@@ -1,6 +1,6 @@
 # FairHuman
 
-Official implementation of **[FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models]((https://arxiv.org/abs/2507.02714)**
+Official implementation of **[FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models](https://arxiv.org/abs/2507.02714)**
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2507.02714)
 <h3 align="center">
     <img src="assets/teaser.png", width=95% height=95% >

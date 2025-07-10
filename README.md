@@ -4,14 +4,14 @@ Official implementation of **[FairHuman: Boosting Hand and Face Quality in Human
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2507.02714)<br>
 <h3 align="center">
-    <img src="assets/teaser.png", width=95% height=95% >
+    <img src="assets/teaser.png", width=95%>
 </h3>
 
 ><p align="center"> <span style="color:#137cf3; font-family: Gill Sans">Yuxuan Wang,</span><sup>1</sup></a>  <span style="color:#137cf3; font-family: Gill Sans">Tianwei Cao</span><sup>1*</sup>,</a> <span style="color:#137cf3; font-family: Gill Sans">Huayu Zhang,</span><sup>2</sup></a>  <span style="color:#137cf3; font-family: Gill Sans">Zhongjiang He,</span><sup>2</sup> </a>  <span style="color:#137cf3; font-family: Gill Sans">Kongming Liang</span><sup>1*</sup>,</a> <span style="color:#137cf3; font-family: Gill Sans">Zhanyu Ma</span><sup>1</sup></a> <br> 
 ><span style="font-size: 16px">Beijing University of Posts and Telecommunications,</span><sup>1</sup></a>  <span style="font-size: 16px">Institute of Artificial Intelligence China Telecom(TeleAI)</span><sup>2</sup></a>  </p>
 
 <p align="center">
-<img src="assets/method.png" width=95% height=95% 
+<img src="assets/method.png", width=95%,
 class="center">
 </p>
 
